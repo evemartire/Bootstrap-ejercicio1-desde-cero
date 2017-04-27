@@ -46,6 +46,7 @@ body{
 
 .nav-estilos{
 	font-weight: bold;
+  background-color: rgba(0, 0, 0, 0.3);
 }
 
 .nav-estilos a{
