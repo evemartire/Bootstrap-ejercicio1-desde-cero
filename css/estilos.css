@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+
+body{
+ font-family: 'Lato', sans-serif;
+}
+
+
+.fondo-naranja{
+     background: #f3a309;
+     }
+
+.bg-seccion-1{
+	background: #f3a309;
+	color: #ffffff;
+}
+
+.boton-eve{
+	-webkit-transform: translateY(0) scale(1); 
+     opacity: 1;transform: translateY(0) scale(1); 
+     opacity: 1;
+     -webkit-transition: all 0.35s ease 0s, 
+     -webkit-transform 1s 
+     cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s, opacity 1s 
+     cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s; transition: all 0.35s ease 0s, transform 1s 
+     cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s, opacity 1s 
+     cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s; 
+     margin: 20px;
+     font-weight: bold;
+     color: #58595b;
+}
+
+.nav-estilos{
+	font-weight: bold;
+}
+
+.nav-estilos a{
+	color: #ffffff;
+}
