@@ -5,6 +5,10 @@ body{
  font-family: 'Lato', sans-serif;
 }
 
+hr {
+  border-color: orange;
+  border-width: 3px;
+  max-width: 50px; }
 
 .fondo-naranja{
      background: #f3a309;
