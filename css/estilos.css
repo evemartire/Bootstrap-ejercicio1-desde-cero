@@ -29,6 +29,9 @@ body{
      font-weight: bold;
      color: #58595b;
 }
+.img-responsive{
+     width: 100%;
+}
 
 .nav-estilos{
 	font-weight: bold;
