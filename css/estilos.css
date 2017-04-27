@@ -46,6 +46,7 @@ body{
 
 .nav-estilos{
 	font-weight: bold;
+  background-color: rgba(0, 0, 0, 0.3);
 }
 
 .nav-estilos a{
@@ -59,6 +60,7 @@ body{
 	color: white;
 }
 
+
 .glyphicon-ok,
 .glyphicon-headphones,
 .glyphicon-send,
@@ -70,4 +72,9 @@ body{
 
 .contenedores-servicios{
   padding: 50px;
+}
+
+.contactanos.row{
+text-align: center;
+color: gray
 }
