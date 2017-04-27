@@ -16,15 +16,15 @@ body{
 }
 
 .boton-eve{
-	-webkit-transform: translateY(0) scale(1); 
-     opacity: 1;transform: translateY(0) scale(1); 
+	-webkit-transform: translateY(0) scale(1);
+     opacity: 1;transform: translateY(0) scale(1);
      opacity: 1;
-     -webkit-transition: all 0.35s ease 0s, 
-     -webkit-transform 1s 
-     cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s, opacity 1s 
-     cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s; transition: all 0.35s ease 0s, transform 1s 
-     cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s, opacity 1s 
-     cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s; 
+     -webkit-transition: all 0.35s ease 0s,
+     -webkit-transform 1s
+     cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s, opacity 1s
+     cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s; transition: all 0.35s ease 0s, transform 1s
+     cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s, opacity 1s
+     cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s;
      margin: 20px;
      font-weight: bold;
      color: #58595b;
@@ -33,10 +33,28 @@ body{
      width: 100%;
 }
 
+.img-fluid {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.sinmargen{
+  margin: 0;
+  padding: 0;
+}
+
 .nav-estilos{
 	font-weight: bold;
 }
 
 .nav-estilos a{
 	color: #ffffff;
+}
+.fondo-gris{
+     background: gray;
+     }
+.bg-seccion-2{
+	background: gray;
+	color: white;
 }
