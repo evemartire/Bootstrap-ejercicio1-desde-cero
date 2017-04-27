@@ -64,6 +64,20 @@ body{
 	color: white;
 }
 
+
+.glyphicon-ok,
+.glyphicon-headphones,
+.glyphicon-send,
+.glyphicon-heart{
+  color: #f3a309;
+  font-size: 50px;
+}
+
+
+.contenedores-servicios{
+  padding: 50px;
+}
+
 .contactanos.row{
 text-align: center;
 color: gray
