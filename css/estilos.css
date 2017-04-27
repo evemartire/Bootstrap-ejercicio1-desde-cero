@@ -48,6 +48,10 @@ body{
 	font-weight: bold;
   background-color: rgba(0, 0, 0, 0.3);
 }
+.glyphicon{
+  font-size: 40px;
+  color: orange;
+}
 
 .nav-estilos a{
 	color: #ffffff;
@@ -63,4 +67,8 @@ body{
 .contactanos.row{
 text-align: center;
 color: gray
+}
+
+.contenedorcontact{
+  text-align: center;
 }
