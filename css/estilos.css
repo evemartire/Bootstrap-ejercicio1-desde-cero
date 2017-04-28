@@ -39,6 +39,7 @@ hr {
  background-color: #ffffff;
  margin: 20px;
  font-weight: bold;
+
 }
 
 
@@ -98,4 +99,12 @@ color: gray
 
 .contenedorcontact{
   text-align: center;
+}
+
+.modal-title{
+  color: #58595b;
+}
+
+.modal-body{
+  color: #58595b;
 }
