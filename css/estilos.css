@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
 
-
 body{
  font-family: 'Lato', sans-serif;
 }
@@ -86,7 +85,10 @@ hr {
   color: #f3a309;
   font-size: 50px;
 }
-
+.row{
+  margin-right: 0px;
+  margin-left: 0px;
+}
 
 .contenedores-servicios{
   padding: 50px;
@@ -94,7 +96,7 @@ hr {
 
 .contactanos.row{
 text-align: center;
-color: gray
+color: gray;
 }
 
 .contenedorcontact{
