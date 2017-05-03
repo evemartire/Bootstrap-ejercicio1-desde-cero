@@ -60,6 +60,7 @@ hr {
 .nav-estilos{
 	font-weight: bold;
   background-color: rgba(0, 0, 0, 0.3);
+  color: #ffffff;
 }
 .glyphicon{
   font-size: 40px;
@@ -69,6 +70,8 @@ hr {
 .nav-estilos a{
 	color: #ffffff;
 }
+
+
 .fondo-gris{
      background: gray;
      }
@@ -110,3 +113,22 @@ color: gray;
 .modal-body{
   color: #58595b;
 }
+
+.img-hover:hover {
+    opacity: 0.5;
+}
+
+
+@media screen and (max-width: 500px) {
+  .carousel-indicators li {
+      width:15px;
+      height: 15px;
+      text-align:center;
+  }
+
+  .carousel-indicators .active {
+      width:17px;
+      height: 17px;
+      text-align:center;
+  }
+  }
